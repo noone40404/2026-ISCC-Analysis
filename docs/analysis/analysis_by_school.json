@@ -1,0 +1,3362 @@
+[
+  {
+    "school": "郑州大学",
+    "total_solves": 1383,
+    "early_solves": 71,
+    "average_rank": 1533.4772234273319,
+    "median_rank": 1490,
+    "unique_challenges": 22
+  },
+  {
+    "school": "重庆移通学院",
+    "total_solves": 1139,
+    "early_solves": 51,
+    "average_rank": 1590.27216856892,
+    "median_rank": 1515,
+    "unique_challenges": 22
+  },
+  {
+    "school": "南京信息工程大学",
+    "total_solves": 1018,
+    "early_solves": 101,
+    "average_rank": 1330.1846758349704,
+    "median_rank": 1296.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "成都信息工程大学",
+    "total_solves": 980,
+    "early_solves": 13,
+    "average_rank": 1775.984693877551,
+    "median_rank": 1776.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "大连海事大学",
+    "total_solves": 957,
+    "early_solves": 185,
+    "average_rank": 913.6457680250784,
+    "median_rank": 681,
+    "unique_challenges": 22
+  },
+  {
+    "school": "福州大学至诚学院",
+    "total_solves": 850,
+    "early_solves": 93,
+    "average_rank": 1407.3117647058823,
+    "median_rank": 1271.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "湖北大学",
+    "total_solves": 821,
+    "early_solves": 160,
+    "average_rank": 892.1120584652863,
+    "median_rank": 646,
+    "unique_challenges": 22
+  },
+  {
+    "school": "中北大学",
+    "total_solves": 819,
+    "early_solves": 135,
+    "average_rank": 950.967032967033,
+    "median_rank": 751,
+    "unique_challenges": 22
+  },
+  {
+    "school": "江苏大学",
+    "total_solves": 818,
+    "early_solves": 69,
+    "average_rank": 1189.1442542787286,
+    "median_rank": 1074.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "武汉晴川学院",
+    "total_solves": 808,
+    "early_solves": 0,
+    "average_rank": 2600.102722772277,
+    "median_rank": 2606.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "福建农林大学",
+    "total_solves": 792,
+    "early_solves": 68,
+    "average_rank": 1412.996212121212,
+    "median_rank": 1269.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "曲阜师范大学",
+    "total_solves": 788,
+    "early_solves": 52,
+    "average_rank": 1402.3883248730965,
+    "median_rank": 1333.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "南昌大学",
+    "total_solves": 752,
+    "early_solves": 52,
+    "average_rank": 1213.406914893617,
+    "median_rank": 1106.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "西南石油大学",
+    "total_solves": 747,
+    "early_solves": 134,
+    "average_rank": 816.5917001338688,
+    "median_rank": 716,
+    "unique_challenges": 22
+  },
+  {
+    "school": "西北工业大学",
+    "total_solves": 672,
+    "early_solves": 4,
+    "average_rank": 1783.047619047619,
+    "median_rank": 1593.0,
+    "unique_challenges": 21
+  },
+  {
+    "school": "中原工学院",
+    "total_solves": 668,
+    "early_solves": 17,
+    "average_rank": 1443.6452095808384,
+    "median_rank": 1318.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "郑州轻工业大学",
+    "total_solves": 667,
+    "early_solves": 13,
+    "average_rank": 1836.8485757121439,
+    "median_rank": 1775,
+    "unique_challenges": 22
+  },
+  {
+    "school": "河南师范大学",
+    "total_solves": 652,
+    "early_solves": 106,
+    "average_rank": 766.7438650306749,
+    "median_rank": 585.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "北京理工大学",
+    "total_solves": 595,
+    "early_solves": 17,
+    "average_rank": 1940.6117647058823,
+    "median_rank": 1923,
+    "unique_challenges": 23
+  },
+  {
+    "school": "河南理工大学",
+    "total_solves": 571,
+    "early_solves": 15,
+    "average_rank": 1816.676007005254,
+    "median_rank": 1781,
+    "unique_challenges": 22
+  },
+  {
+    "school": "湖南文理学院",
+    "total_solves": 571,
+    "early_solves": 6,
+    "average_rank": 1538.3029772329246,
+    "median_rank": 1403,
+    "unique_challenges": 22
+  },
+  {
+    "school": "云南大学",
+    "total_solves": 570,
+    "early_solves": 28,
+    "average_rank": 1402.677192982456,
+    "median_rank": 1456.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "海南大学",
+    "total_solves": 558,
+    "early_solves": 75,
+    "average_rank": 1190.600358422939,
+    "median_rank": 996.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "河北工业大学",
+    "total_solves": 543,
+    "early_solves": 68,
+    "average_rank": 1221.011049723757,
+    "median_rank": 1216,
+    "unique_challenges": 22
+  },
+  {
+    "school": "燕山大学",
+    "total_solves": 535,
+    "early_solves": 36,
+    "average_rank": 1264.0,
+    "median_rank": 1167,
+    "unique_challenges": 22
+  },
+  {
+    "school": "安徽新华学院",
+    "total_solves": 534,
+    "early_solves": 60,
+    "average_rank": 804.9269662921348,
+    "median_rank": 752.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "山东科技大学",
+    "total_solves": 532,
+    "early_solves": 151,
+    "average_rank": 748.6015037593985,
+    "median_rank": 435.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "玉林师范学院",
+    "total_solves": 532,
+    "early_solves": 15,
+    "average_rank": 1526.3627819548872,
+    "median_rank": 1431.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "成都理工大学",
+    "total_solves": 530,
+    "early_solves": 44,
+    "average_rank": 1249.4,
+    "median_rank": 959.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "西安邮电大学",
+    "total_solves": 523,
+    "early_solves": 13,
+    "average_rank": 2132.4263862332696,
+    "median_rank": 2223,
+    "unique_challenges": 22
+  },
+  {
+    "school": "浙江警察学院",
+    "total_solves": 516,
+    "early_solves": 9,
+    "average_rank": 2007.3837209302326,
+    "median_rank": 2037.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "大连民族大学",
+    "total_solves": 512,
+    "early_solves": 36,
+    "average_rank": 1431.119140625,
+    "median_rank": 1197.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "南阳理工学院",
+    "total_solves": 507,
+    "early_solves": 38,
+    "average_rank": 1430.9585798816568,
+    "median_rank": 1268,
+    "unique_challenges": 22
+  },
+  {
+    "school": "武汉工程大学",
+    "total_solves": 483,
+    "early_solves": 28,
+    "average_rank": 1524.8198757763976,
+    "median_rank": 1453,
+    "unique_challenges": 22
+  },
+  {
+    "school": "周口职业技术学院",
+    "total_solves": 473,
+    "early_solves": 88,
+    "average_rank": 733.4841437632135,
+    "median_rank": 513,
+    "unique_challenges": 22
+  },
+  {
+    "school": "江西应用科技学院",
+    "total_solves": 457,
+    "early_solves": 41,
+    "average_rank": 1310.3763676148797,
+    "median_rank": 1447,
+    "unique_challenges": 22
+  },
+  {
+    "school": "桂林电子科技大学",
+    "total_solves": 453,
+    "early_solves": 31,
+    "average_rank": 1873.8476821192053,
+    "median_rank": 1856,
+    "unique_challenges": 22
+  },
+  {
+    "school": "西安工程大学",
+    "total_solves": 447,
+    "early_solves": 16,
+    "average_rank": 1713.917225950783,
+    "median_rank": 1762,
+    "unique_challenges": 22
+  },
+  {
+    "school": "宁波工程学院",
+    "total_solves": 444,
+    "early_solves": 22,
+    "average_rank": 1918.7364864864865,
+    "median_rank": 1965.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "安阳工学院",
+    "total_solves": 435,
+    "early_solves": 23,
+    "average_rank": 1771.2275862068966,
+    "median_rank": 1549,
+    "unique_challenges": 22
+  },
+  {
+    "school": "西安工业大学",
+    "total_solves": 418,
+    "early_solves": 6,
+    "average_rank": 2144.2655502392345,
+    "median_rank": 2313.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "中国人民解放军国防科技大学",
+    "total_solves": 409,
+    "early_solves": 38,
+    "average_rank": 1229.5354523227384,
+    "median_rank": 1145,
+    "unique_challenges": 22
+  },
+  {
+    "school": "福建师范大学",
+    "total_solves": 402,
+    "early_solves": 15,
+    "average_rank": 1220.0199004975125,
+    "median_rank": 1130.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "河南大学",
+    "total_solves": 400,
+    "early_solves": 12,
+    "average_rank": 1634.025,
+    "median_rank": 1733.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "长沙学院",
+    "total_solves": 390,
+    "early_solves": 27,
+    "average_rank": 1524.1846153846154,
+    "median_rank": 1632.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "齐鲁工业大学",
+    "total_solves": 386,
+    "early_solves": 68,
+    "average_rank": 1225.7072538860104,
+    "median_rank": 929.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "郑州西亚斯学院",
+    "total_solves": 384,
+    "early_solves": 12,
+    "average_rank": 1285.6458333333333,
+    "median_rank": 1292.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "青岛工学院",
+    "total_solves": 383,
+    "early_solves": 20,
+    "average_rank": 1502.7963446475196,
+    "median_rank": 990,
+    "unique_challenges": 22
+  },
+  {
+    "school": "沈阳工程学院",
+    "total_solves": 355,
+    "early_solves": 7,
+    "average_rank": 1772.030985915493,
+    "median_rank": 1736,
+    "unique_challenges": 22
+  },
+  {
+    "school": "扬州大学",
+    "total_solves": 339,
+    "early_solves": 50,
+    "average_rank": 970.4985250737464,
+    "median_rank": 846,
+    "unique_challenges": 22
+  },
+  {
+    "school": "东北林业大学",
+    "total_solves": 337,
+    "early_solves": 63,
+    "average_rank": 956.7982195845698,
+    "median_rank": 872,
+    "unique_challenges": 23
+  },
+  {
+    "school": "湖南工商大学",
+    "total_solves": 336,
+    "early_solves": 17,
+    "average_rank": 1722.8988095238096,
+    "median_rank": 1844.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "河南警察学院",
+    "total_solves": 324,
+    "early_solves": 3,
+    "average_rank": 2123.651234567901,
+    "median_rank": 2383.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "许昌学院",
+    "total_solves": 308,
+    "early_solves": 18,
+    "average_rank": 1471.1883116883116,
+    "median_rank": 1469.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "成都东软学院",
+    "total_solves": 301,
+    "early_solves": 32,
+    "average_rank": 1393.9867109634552,
+    "median_rank": 1353,
+    "unique_challenges": 22
+  },
+  {
+    "school": "西安理工大学",
+    "total_solves": 291,
+    "early_solves": 17,
+    "average_rank": 1322.0687285223369,
+    "median_rank": 1159,
+    "unique_challenges": 22
+  },
+  {
+    "school": "南京邮电大学",
+    "total_solves": 288,
+    "early_solves": 16,
+    "average_rank": 1190.517361111111,
+    "median_rank": 972.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "长春理工大学",
+    "total_solves": 281,
+    "early_solves": 39,
+    "average_rank": 1347.1743772241994,
+    "median_rank": 1155,
+    "unique_challenges": 22
+  },
+  {
+    "school": "大理大学",
+    "total_solves": 281,
+    "early_solves": 12,
+    "average_rank": 1562.7544483985764,
+    "median_rank": 1449,
+    "unique_challenges": 22
+  },
+  {
+    "school": "浙江师范大学",
+    "total_solves": 279,
+    "early_solves": 18,
+    "average_rank": 1504.1720430107528,
+    "median_rank": 1316,
+    "unique_challenges": 22
+  },
+  {
+    "school": "东华理工大学",
+    "total_solves": 276,
+    "early_solves": 2,
+    "average_rank": 2006.268115942029,
+    "median_rank": 2065.5,
+    "unique_challenges": 21
+  },
+  {
+    "school": "云南民族大学",
+    "total_solves": 274,
+    "early_solves": 3,
+    "average_rank": 2460.675182481752,
+    "median_rank": 2626.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "山东理工大学",
+    "total_solves": 274,
+    "early_solves": 12,
+    "average_rank": 1529.153284671533,
+    "median_rank": 1462.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "河南工业大学",
+    "total_solves": 273,
+    "early_solves": 12,
+    "average_rank": 1537.9120879120878,
+    "median_rank": 1531,
+    "unique_challenges": 22
+  },
+  {
+    "school": "西南民族大学",
+    "total_solves": 272,
+    "early_solves": 94,
+    "average_rank": 600.2316176470588,
+    "median_rank": 340.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "湖南工程学院",
+    "total_solves": 270,
+    "early_solves": 10,
+    "average_rank": 1817.9037037037037,
+    "median_rank": 1907.0,
+    "unique_challenges": 20
+  },
+  {
+    "school": "中国人民公安大学",
+    "total_solves": 269,
+    "early_solves": 22,
+    "average_rank": 1500.9628252788104,
+    "median_rank": 1398,
+    "unique_challenges": 22
+  },
+  {
+    "school": "西安欧亚学院",
+    "total_solves": 268,
+    "early_solves": 2,
+    "average_rank": 2295.7873134328356,
+    "median_rank": 2332.5,
+    "unique_challenges": 21
+  },
+  {
+    "school": "华北水利水电大学",
+    "total_solves": 266,
+    "early_solves": 21,
+    "average_rank": 1388.6203007518798,
+    "median_rank": 1324.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "山东建筑大学",
+    "total_solves": 265,
+    "early_solves": 10,
+    "average_rank": 2021.1396226415095,
+    "median_rank": 2184,
+    "unique_challenges": 22
+  },
+  {
+    "school": "山东警察学院",
+    "total_solves": 252,
+    "early_solves": 9,
+    "average_rank": 1283.6309523809523,
+    "median_rank": 1146.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "中国人民解放军网络空间部队信息工程大学",
+    "total_solves": 243,
+    "early_solves": 0,
+    "average_rank": 2186.901234567901,
+    "median_rank": 2315,
+    "unique_challenges": 20
+  },
+  {
+    "school": "金陵科技学院",
+    "total_solves": 238,
+    "early_solves": 8,
+    "average_rank": 1750.7100840336134,
+    "median_rank": 1516.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "青海民族大学",
+    "total_solves": 237,
+    "early_solves": 0,
+    "average_rank": 2282.9451476793247,
+    "median_rank": 2430,
+    "unique_challenges": 20
+  },
+  {
+    "school": "三江学院",
+    "total_solves": 236,
+    "early_solves": 13,
+    "average_rank": 1090.7542372881355,
+    "median_rank": 931.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "中国传媒大学",
+    "total_solves": 235,
+    "early_solves": 28,
+    "average_rank": 1587.7659574468084,
+    "median_rank": 1672,
+    "unique_challenges": 22
+  },
+  {
+    "school": "湖南人文科技学院",
+    "total_solves": 235,
+    "early_solves": 2,
+    "average_rank": 2060.6127659574468,
+    "median_rank": 1913,
+    "unique_challenges": 22
+  },
+  {
+    "school": "辽宁工业大学",
+    "total_solves": 234,
+    "early_solves": 44,
+    "average_rank": 1286.2521367521367,
+    "median_rank": 822.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "华中科技大学",
+    "total_solves": 230,
+    "early_solves": 18,
+    "average_rank": 1101.208695652174,
+    "median_rank": 782.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "重庆电子科技职业大学",
+    "total_solves": 228,
+    "early_solves": 0,
+    "average_rank": 1561.1315789473683,
+    "median_rank": 1399.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "三门峡社会管理职业学院",
+    "total_solves": 228,
+    "early_solves": 7,
+    "average_rank": 1818.188596491228,
+    "median_rank": 1871.0,
+    "unique_challenges": 21
+  },
+  {
+    "school": "江西师范大学",
+    "total_solves": 225,
+    "early_solves": 23,
+    "average_rank": 1259.848888888889,
+    "median_rank": 1423,
+    "unique_challenges": 22
+  },
+  {
+    "school": "台州学院",
+    "total_solves": 224,
+    "early_solves": 13,
+    "average_rank": 1437.955357142857,
+    "median_rank": 1244.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "重庆邮电大学",
+    "total_solves": 223,
+    "early_solves": 22,
+    "average_rank": 1743.201793721973,
+    "median_rank": 1869,
+    "unique_challenges": 22
+  },
+  {
+    "school": "河南开封科技传媒学院",
+    "total_solves": 222,
+    "early_solves": 3,
+    "average_rank": 2186.1171171171172,
+    "median_rank": 2303.0,
+    "unique_challenges": 21
+  },
+  {
+    "school": "新疆大学",
+    "total_solves": 221,
+    "early_solves": 14,
+    "average_rank": 1636.3031674208146,
+    "median_rank": 1710,
+    "unique_challenges": 22
+  },
+  {
+    "school": "黄淮学院",
+    "total_solves": 220,
+    "early_solves": 1,
+    "average_rank": 2309.8636363636365,
+    "median_rank": 2347.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "山东师范大学",
+    "total_solves": 217,
+    "early_solves": 20,
+    "average_rank": 1417.6129032258063,
+    "median_rank": 1221,
+    "unique_challenges": 22
+  },
+  {
+    "school": "青岛大学",
+    "total_solves": 217,
+    "early_solves": 5,
+    "average_rank": 1682.589861751152,
+    "median_rank": 1732,
+    "unique_challenges": 22
+  },
+  {
+    "school": "浙江经济职业技术学院",
+    "total_solves": 213,
+    "early_solves": 1,
+    "average_rank": 2476.319248826291,
+    "median_rank": 2515,
+    "unique_challenges": 20
+  },
+  {
+    "school": "泉州信息工程学院",
+    "total_solves": 212,
+    "early_solves": 1,
+    "average_rank": 2024.0707547169811,
+    "median_rank": 2123.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "萍乡学院",
+    "total_solves": 210,
+    "early_solves": 19,
+    "average_rank": 1462.1761904761904,
+    "median_rank": 1575.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "衡阳师范学院",
+    "total_solves": 210,
+    "early_solves": 8,
+    "average_rank": 1584.9857142857143,
+    "median_rank": 1606.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "华南农业大学",
+    "total_solves": 208,
+    "early_solves": 12,
+    "average_rank": 884.6009615384615,
+    "median_rank": 750.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "南阳师范学院",
+    "total_solves": 206,
+    "early_solves": 1,
+    "average_rank": 2355.5,
+    "median_rank": 2479.5,
+    "unique_challenges": 21
+  },
+  {
+    "school": "中国人民警察大学",
+    "total_solves": 201,
+    "early_solves": 19,
+    "average_rank": 1476.6567164179105,
+    "median_rank": 1333,
+    "unique_challenges": 21
+  },
+  {
+    "school": "西北民族大学",
+    "total_solves": 201,
+    "early_solves": 7,
+    "average_rank": 2165.3582089552237,
+    "median_rank": 2387,
+    "unique_challenges": 22
+  },
+  {
+    "school": "安徽大学",
+    "total_solves": 193,
+    "early_solves": 36,
+    "average_rank": 836.6321243523316,
+    "median_rank": 710,
+    "unique_challenges": 22
+  },
+  {
+    "school": "广东技术师范大学",
+    "total_solves": 188,
+    "early_solves": 10,
+    "average_rank": 1822.904255319149,
+    "median_rank": 1992.0,
+    "unique_challenges": 21
+  },
+  {
+    "school": "天津大学",
+    "total_solves": 188,
+    "early_solves": 19,
+    "average_rank": 1483.8829787234042,
+    "median_rank": 1557.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "广东理工学院",
+    "total_solves": 188,
+    "early_solves": 0,
+    "average_rank": 1991.531914893617,
+    "median_rank": 2040.5,
+    "unique_challenges": 20
+  },
+  {
+    "school": "兰州大学",
+    "total_solves": 188,
+    "early_solves": 15,
+    "average_rank": 1138.7074468085107,
+    "median_rank": 995.5,
+    "unique_challenges": 21
+  },
+  {
+    "school": "重庆城市科技学院",
+    "total_solves": 187,
+    "early_solves": 0,
+    "average_rank": 2507.7379679144383,
+    "median_rank": 2659,
+    "unique_challenges": 20
+  },
+  {
+    "school": "江西财经大学",
+    "total_solves": 184,
+    "early_solves": 9,
+    "average_rank": 1216.4021739130435,
+    "median_rank": 1199.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "广西科技大学",
+    "total_solves": 181,
+    "early_solves": 2,
+    "average_rank": 1195.3977900552486,
+    "median_rank": 1041,
+    "unique_challenges": 21
+  },
+  {
+    "school": "阳光学院",
+    "total_solves": 180,
+    "early_solves": 0,
+    "average_rank": 1315.2222222222222,
+    "median_rank": 1191.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "集美大学",
+    "total_solves": 179,
+    "early_solves": 5,
+    "average_rank": 1569.5977653631285,
+    "median_rank": 1519,
+    "unique_challenges": 22
+  },
+  {
+    "school": "杭州师范大学",
+    "total_solves": 178,
+    "early_solves": 20,
+    "average_rank": 1184.0056179775281,
+    "median_rank": 1000.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "郑州经贸学院",
+    "total_solves": 175,
+    "early_solves": 0,
+    "average_rank": 1925.902857142857,
+    "median_rank": 1901,
+    "unique_challenges": 21
+  },
+  {
+    "school": "广州理工学院",
+    "total_solves": 174,
+    "early_solves": 2,
+    "average_rank": 1500.655172413793,
+    "median_rank": 1357.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "商丘师范学院",
+    "total_solves": 172,
+    "early_solves": 3,
+    "average_rank": 1744.3197674418604,
+    "median_rank": 1808.5,
+    "unique_challenges": 21
+  },
+  {
+    "school": "赣南科技学院",
+    "total_solves": 171,
+    "early_solves": 0,
+    "average_rank": 2125.4327485380118,
+    "median_rank": 2111,
+    "unique_challenges": 22
+  },
+  {
+    "school": "中国民航大学",
+    "total_solves": 168,
+    "early_solves": 13,
+    "average_rank": 1788.3392857142858,
+    "median_rank": 2043.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "南昌航空大学科技学院",
+    "total_solves": 168,
+    "early_solves": 27,
+    "average_rank": 1299.077380952381,
+    "median_rank": 851.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "江西警察学院",
+    "total_solves": 161,
+    "early_solves": 11,
+    "average_rank": 1471.4037267080746,
+    "median_rank": 1279,
+    "unique_challenges": 22
+  },
+  {
+    "school": "信阳师范大学",
+    "total_solves": 160,
+    "early_solves": 10,
+    "average_rank": 1200.15,
+    "median_rank": 1081.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "河北工程技术学院",
+    "total_solves": 158,
+    "early_solves": 9,
+    "average_rank": 1737.6518987341772,
+    "median_rank": 1788.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "上海公安学院",
+    "total_solves": 153,
+    "early_solves": 6,
+    "average_rank": 2023.0196078431372,
+    "median_rank": 2280,
+    "unique_challenges": 22
+  },
+  {
+    "school": "北京警察学院",
+    "total_solves": 152,
+    "early_solves": 7,
+    "average_rank": 1603.5263157894738,
+    "median_rank": 1491.0,
+    "unique_challenges": 20
+  },
+  {
+    "school": "防灾科技学院",
+    "total_solves": 151,
+    "early_solves": 9,
+    "average_rank": 1354.8543046357615,
+    "median_rank": 1236,
+    "unique_challenges": 22
+  },
+  {
+    "school": "太原理工大学",
+    "total_solves": 146,
+    "early_solves": 12,
+    "average_rank": 1329.0616438356165,
+    "median_rank": 1116.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "新疆农业大学",
+    "total_solves": 144,
+    "early_solves": 8,
+    "average_rank": 1512.923611111111,
+    "median_rank": 1477.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "中南民族大学",
+    "total_solves": 143,
+    "early_solves": 4,
+    "average_rank": 1668.5944055944055,
+    "median_rank": 1537,
+    "unique_challenges": 22
+  },
+  {
+    "school": "菏泽学院",
+    "total_solves": 142,
+    "early_solves": 1,
+    "average_rank": 2584.3169014084506,
+    "median_rank": 2864.5,
+    "unique_challenges": 21
+  },
+  {
+    "school": "江苏海洋大学",
+    "total_solves": 142,
+    "early_solves": 0,
+    "average_rank": 2022.7887323943662,
+    "median_rank": 2107.0,
+    "unique_challenges": 18
+  },
+  {
+    "school": "贵州理工学院",
+    "total_solves": 141,
+    "early_solves": 0,
+    "average_rank": 3023.6524822695037,
+    "median_rank": 3104,
+    "unique_challenges": 20
+  },
+  {
+    "school": "东北大学",
+    "total_solves": 139,
+    "early_solves": 9,
+    "average_rank": 1325.928057553957,
+    "median_rank": 1199,
+    "unique_challenges": 21
+  },
+  {
+    "school": "安徽师范大学",
+    "total_solves": 139,
+    "early_solves": 12,
+    "average_rank": 1236.8776978417266,
+    "median_rank": 1348,
+    "unique_challenges": 22
+  },
+  {
+    "school": "闽江师范高等专科学校",
+    "total_solves": 138,
+    "early_solves": 8,
+    "average_rank": 1164.7028985507247,
+    "median_rank": 1033.0,
+    "unique_challenges": 21
+  },
+  {
+    "school": "四川师范大学",
+    "total_solves": 137,
+    "early_solves": 18,
+    "average_rank": 2027.7080291970804,
+    "median_rank": 2509,
+    "unique_challenges": 22
+  },
+  {
+    "school": "塔里木大学",
+    "total_solves": 136,
+    "early_solves": 4,
+    "average_rank": 2130.6029411764707,
+    "median_rank": 2257.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "青岛科技大学",
+    "total_solves": 134,
+    "early_solves": 17,
+    "average_rank": 2240.007462686567,
+    "median_rank": 2724.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "广州商学院",
+    "total_solves": 133,
+    "early_solves": 1,
+    "average_rank": 2510.7593984962405,
+    "median_rank": 2564,
+    "unique_challenges": 19
+  },
+  {
+    "school": "湖南城市学院",
+    "total_solves": 133,
+    "early_solves": 0,
+    "average_rank": 2277.533834586466,
+    "median_rank": 2166,
+    "unique_challenges": 20
+  },
+  {
+    "school": "江西理工大学",
+    "total_solves": 132,
+    "early_solves": 0,
+    "average_rank": 2691.030303030303,
+    "median_rank": 2850.0,
+    "unique_challenges": 21
+  },
+  {
+    "school": "大连东软信息学院",
+    "total_solves": 131,
+    "early_solves": 17,
+    "average_rank": 1549.1145038167938,
+    "median_rank": 1494,
+    "unique_challenges": 22
+  },
+  {
+    "school": "北京交通大学",
+    "total_solves": 130,
+    "early_solves": 0,
+    "average_rank": 2518.9076923076923,
+    "median_rank": 2574.0,
+    "unique_challenges": 21
+  },
+  {
+    "school": "洛阳师范学院",
+    "total_solves": 129,
+    "early_solves": 1,
+    "average_rank": 1980.8837209302326,
+    "median_rank": 1984,
+    "unique_challenges": 22
+  },
+  {
+    "school": "石家庄学院",
+    "total_solves": 128,
+    "early_solves": 8,
+    "average_rank": 715.828125,
+    "median_rank": 734.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "郑州商学院",
+    "total_solves": 127,
+    "early_solves": 5,
+    "average_rank": 2424.267716535433,
+    "median_rank": 2631,
+    "unique_challenges": 20
+  },
+  {
+    "school": "青岛城市学院",
+    "total_solves": 126,
+    "early_solves": 8,
+    "average_rank": 1532.5555555555557,
+    "median_rank": 1533.5,
+    "unique_challenges": 21
+  },
+  {
+    "school": "湖南工业大学",
+    "total_solves": 125,
+    "early_solves": 3,
+    "average_rank": 2251.4,
+    "median_rank": 2493,
+    "unique_challenges": 19
+  },
+  {
+    "school": "天津中德应用技术大学",
+    "total_solves": 124,
+    "early_solves": 3,
+    "average_rank": 1306.217741935484,
+    "median_rank": 1188.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "山东中医药大学",
+    "total_solves": 123,
+    "early_solves": 3,
+    "average_rank": 2046.2520325203252,
+    "median_rank": 2301,
+    "unique_challenges": 21
+  },
+  {
+    "school": "上海大学",
+    "total_solves": 122,
+    "early_solves": 31,
+    "average_rank": 1030.7459016393443,
+    "median_rank": 516.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "盐城师范学院",
+    "total_solves": 122,
+    "early_solves": 11,
+    "average_rank": 1708.4016393442623,
+    "median_rank": 1940.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "天津理工大学",
+    "total_solves": 119,
+    "early_solves": 12,
+    "average_rank": 1408.8319327731092,
+    "median_rank": 1358,
+    "unique_challenges": 22
+  },
+  {
+    "school": "徐州工程学院",
+    "total_solves": 118,
+    "early_solves": 38,
+    "average_rank": 817.2372881355932,
+    "median_rank": 567.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "贵州大学",
+    "total_solves": 115,
+    "early_solves": 4,
+    "average_rank": 2280.3826086956524,
+    "median_rank": 2777,
+    "unique_challenges": 21
+  },
+  {
+    "school": "齐鲁师范学院",
+    "total_solves": 115,
+    "early_solves": 14,
+    "average_rank": 1579.5217391304348,
+    "median_rank": 1460,
+    "unique_challenges": 16
+  },
+  {
+    "school": "南京林业大学",
+    "total_solves": 115,
+    "early_solves": 2,
+    "average_rank": 1879.4782608695652,
+    "median_rank": 1853,
+    "unique_challenges": 21
+  },
+  {
+    "school": "平顶山学院",
+    "total_solves": 114,
+    "early_solves": 2,
+    "average_rank": 1946.7456140350878,
+    "median_rank": 2219.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "广东药科大学",
+    "total_solves": 113,
+    "early_solves": 0,
+    "average_rank": 2436.6017699115046,
+    "median_rank": 2489,
+    "unique_challenges": 19
+  },
+  {
+    "school": "河南财经政法大学",
+    "total_solves": 112,
+    "early_solves": 15,
+    "average_rank": 1048.919642857143,
+    "median_rank": 897.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "山东农业工程学院",
+    "total_solves": 112,
+    "early_solves": 0,
+    "average_rank": 1511.4017857142858,
+    "median_rank": 1382.0,
+    "unique_challenges": 20
+  },
+  {
+    "school": "同济大学",
+    "total_solves": 111,
+    "early_solves": 7,
+    "average_rank": 1427.4054054054054,
+    "median_rank": 1385,
+    "unique_challenges": 21
+  },
+  {
+    "school": "河南科技职业大学",
+    "total_solves": 110,
+    "early_solves": 22,
+    "average_rank": 775.5545454545454,
+    "median_rank": 594.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "厦门理工学院",
+    "total_solves": 110,
+    "early_solves": 0,
+    "average_rank": 2314.6363636363635,
+    "median_rank": 2408.0,
+    "unique_challenges": 21
+  },
+  {
+    "school": "江西软件职业技术大学",
+    "total_solves": 110,
+    "early_solves": 0,
+    "average_rank": 1945.4,
+    "median_rank": 1845.5,
+    "unique_challenges": 16
+  },
+  {
+    "school": "东华大学",
+    "total_solves": 109,
+    "early_solves": 8,
+    "average_rank": 766.8990825688073,
+    "median_rank": 617,
+    "unique_challenges": 22
+  },
+  {
+    "school": "常州信息职业技术学院",
+    "total_solves": 109,
+    "early_solves": 4,
+    "average_rank": 2024.9816513761468,
+    "median_rank": 2186,
+    "unique_challenges": 22
+  },
+  {
+    "school": "湖北工程学院",
+    "total_solves": 107,
+    "early_solves": 0,
+    "average_rank": 2505.7570093457944,
+    "median_rank": 2598,
+    "unique_challenges": 22
+  },
+  {
+    "school": "哈尔滨理工大学",
+    "total_solves": 105,
+    "early_solves": 6,
+    "average_rank": 1843.5904761904762,
+    "median_rank": 1708,
+    "unique_challenges": 22
+  },
+  {
+    "school": "成都工业职业技术学院",
+    "total_solves": 105,
+    "early_solves": 0,
+    "average_rank": 2227.019047619048,
+    "median_rank": 2141,
+    "unique_challenges": 21
+  },
+  {
+    "school": "广东东软学院",
+    "total_solves": 104,
+    "early_solves": 0,
+    "average_rank": 2445.903846153846,
+    "median_rank": 2531.5,
+    "unique_challenges": 21
+  },
+  {
+    "school": "郑州信息科技职业学院",
+    "total_solves": 103,
+    "early_solves": 0,
+    "average_rank": 2131.73786407767,
+    "median_rank": 2205,
+    "unique_challenges": 19
+  },
+  {
+    "school": "郑州软件职业技术学院",
+    "total_solves": 101,
+    "early_solves": 8,
+    "average_rank": 1449.5346534653465,
+    "median_rank": 1373,
+    "unique_challenges": 22
+  },
+  {
+    "school": "太原科技大学",
+    "total_solves": 98,
+    "early_solves": 9,
+    "average_rank": 927.0816326530612,
+    "median_rank": 763.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "苏州工学院",
+    "total_solves": 96,
+    "early_solves": 5,
+    "average_rank": 2062.1145833333335,
+    "median_rank": 2196.0,
+    "unique_challenges": 20
+  },
+  {
+    "school": "珠海科技学院",
+    "total_solves": 94,
+    "early_solves": 4,
+    "average_rank": 1453.6063829787233,
+    "median_rank": 1256.0,
+    "unique_challenges": 21
+  },
+  {
+    "school": "上海中侨职业技术大学",
+    "total_solves": 94,
+    "early_solves": 3,
+    "average_rank": 1078.6170212765958,
+    "median_rank": 1065.0,
+    "unique_challenges": 19
+  },
+  {
+    "school": "邯郸学院",
+    "total_solves": 94,
+    "early_solves": 0,
+    "average_rank": 2734.904255319149,
+    "median_rank": 2890.5,
+    "unique_challenges": 20
+  },
+  {
+    "school": "无锡学院",
+    "total_solves": 93,
+    "early_solves": 0,
+    "average_rank": 2055.47311827957,
+    "median_rank": 2076,
+    "unique_challenges": 19
+  },
+  {
+    "school": "郑州工商学院",
+    "total_solves": 93,
+    "early_solves": 0,
+    "average_rank": 2409.1397849462364,
+    "median_rank": 2045,
+    "unique_challenges": 13
+  },
+  {
+    "school": "中国地质大学（北京）",
+    "total_solves": 91,
+    "early_solves": 2,
+    "average_rank": 2125.912087912088,
+    "median_rank": 2222,
+    "unique_challenges": 19
+  },
+  {
+    "school": "上海理工大学",
+    "total_solves": 90,
+    "early_solves": 1,
+    "average_rank": 2302.711111111111,
+    "median_rank": 2413.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "宁波大学科学技术学院",
+    "total_solves": 90,
+    "early_solves": 0,
+    "average_rank": 2672.2,
+    "median_rank": 2704.5,
+    "unique_challenges": 20
+  },
+  {
+    "school": "绍兴理工学院",
+    "total_solves": 90,
+    "early_solves": 0,
+    "average_rank": 2733.866666666667,
+    "median_rank": 2711.0,
+    "unique_challenges": 19
+  },
+  {
+    "school": "浙江师范大学行知学院",
+    "total_solves": 89,
+    "early_solves": 0,
+    "average_rank": 2773.752808988764,
+    "median_rank": 2925,
+    "unique_challenges": 17
+  },
+  {
+    "school": "广西交通职业技术学院",
+    "total_solves": 88,
+    "early_solves": 17,
+    "average_rank": 2010.8068181818182,
+    "median_rank": 2577.5,
+    "unique_challenges": 21
+  },
+  {
+    "school": "广州华立学院",
+    "total_solves": 88,
+    "early_solves": 6,
+    "average_rank": 845.25,
+    "median_rank": 712.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "焦作大学",
+    "total_solves": 88,
+    "early_solves": 0,
+    "average_rank": 2866.6363636363635,
+    "median_rank": 2854.5,
+    "unique_challenges": 16
+  },
+  {
+    "school": "华南理工大学",
+    "total_solves": 87,
+    "early_solves": 12,
+    "average_rank": 1886.448275862069,
+    "median_rank": 2453,
+    "unique_challenges": 22
+  },
+  {
+    "school": "广州软件学院",
+    "total_solves": 86,
+    "early_solves": 20,
+    "average_rank": 738.2441860465116,
+    "median_rank": 537.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "南京理工大学泰州科技学院",
+    "total_solves": 85,
+    "early_solves": 2,
+    "average_rank": 1655.964705882353,
+    "median_rank": 1675,
+    "unique_challenges": 21
+  },
+  {
+    "school": "安徽公安学院",
+    "total_solves": 84,
+    "early_solves": 6,
+    "average_rank": 695.6904761904761,
+    "median_rank": 665.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "云南警官学院",
+    "total_solves": 84,
+    "early_solves": 1,
+    "average_rank": 1384.9642857142858,
+    "median_rank": 1352.5,
+    "unique_challenges": 21
+  },
+  {
+    "school": "商丘工学院",
+    "total_solves": 83,
+    "early_solves": 0,
+    "average_rank": 2421.10843373494,
+    "median_rank": 2962,
+    "unique_challenges": 22
+  },
+  {
+    "school": "兰州理工大学",
+    "total_solves": 82,
+    "early_solves": 1,
+    "average_rank": 1429.6341463414635,
+    "median_rank": 1127.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "湖北恩施学院",
+    "total_solves": 81,
+    "early_solves": 14,
+    "average_rank": 1370.469135802469,
+    "median_rank": 1354,
+    "unique_challenges": 22
+  },
+  {
+    "school": "长春工业大学",
+    "total_solves": 81,
+    "early_solves": 3,
+    "average_rank": 2138.358024691358,
+    "median_rank": 2423,
+    "unique_challenges": 22
+  },
+  {
+    "school": "江西科技学院",
+    "total_solves": 81,
+    "early_solves": 1,
+    "average_rank": 2278.3333333333335,
+    "median_rank": 2505,
+    "unique_challenges": 20
+  },
+  {
+    "school": "长沙民政职业技术学院",
+    "total_solves": 79,
+    "early_solves": 7,
+    "average_rank": 1787.3164556962026,
+    "median_rank": 1478,
+    "unique_challenges": 21
+  },
+  {
+    "school": "哈尔滨工业大学",
+    "total_solves": 77,
+    "early_solves": 0,
+    "average_rank": 1609.7142857142858,
+    "median_rank": 1321,
+    "unique_challenges": 22
+  },
+  {
+    "school": "西华师范大学",
+    "total_solves": 75,
+    "early_solves": 0,
+    "average_rank": 2611.4266666666667,
+    "median_rank": 3038,
+    "unique_challenges": 20
+  },
+  {
+    "school": "湖北汽车工业学院",
+    "total_solves": 75,
+    "early_solves": 0,
+    "average_rank": 2344.4,
+    "median_rank": 2403,
+    "unique_challenges": 16
+  },
+  {
+    "school": "四川警察学院",
+    "total_solves": 74,
+    "early_solves": 0,
+    "average_rank": 2188.554054054054,
+    "median_rank": 2261.5,
+    "unique_challenges": 21
+  },
+  {
+    "school": "沈阳理工大学",
+    "total_solves": 74,
+    "early_solves": 0,
+    "average_rank": 1939.918918918919,
+    "median_rank": 2017.0,
+    "unique_challenges": 20
+  },
+  {
+    "school": "郑州师范学院",
+    "total_solves": 72,
+    "early_solves": 8,
+    "average_rank": 1492.861111111111,
+    "median_rank": 1495.5,
+    "unique_challenges": 19
+  },
+  {
+    "school": "四川轻化工大学",
+    "total_solves": 72,
+    "early_solves": 0,
+    "average_rank": 1924.6527777777778,
+    "median_rank": 2111.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "吉林工程技术师范学院",
+    "total_solves": 70,
+    "early_solves": 0,
+    "average_rank": 1242.2571428571428,
+    "median_rank": 1164.0,
+    "unique_challenges": 20
+  },
+  {
+    "school": "洛阳科技职业学院",
+    "total_solves": 70,
+    "early_solves": 0,
+    "average_rank": 1973.2142857142858,
+    "median_rank": 1945.0,
+    "unique_challenges": 21
+  },
+  {
+    "school": "北京联合大学",
+    "total_solves": 70,
+    "early_solves": 0,
+    "average_rank": 2986.4714285714285,
+    "median_rank": 3254.5,
+    "unique_challenges": 17
+  },
+  {
+    "school": "西安培华学院",
+    "total_solves": 69,
+    "early_solves": 0,
+    "average_rank": 2215.478260869565,
+    "median_rank": 1907,
+    "unique_challenges": 21
+  },
+  {
+    "school": "广东工业大学",
+    "total_solves": 68,
+    "early_solves": 4,
+    "average_rank": 2051.8382352941176,
+    "median_rank": 2144.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "暨南大学",
+    "total_solves": 67,
+    "early_solves": 1,
+    "average_rank": 2726.373134328358,
+    "median_rank": 3011,
+    "unique_challenges": 20
+  },
+  {
+    "school": "洛阳职业技术学院",
+    "total_solves": 66,
+    "early_solves": 4,
+    "average_rank": 1618.3484848484848,
+    "median_rank": 1725.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "武汉软件工程职业学院",
+    "total_solves": 66,
+    "early_solves": 0,
+    "average_rank": 2906.8030303030305,
+    "median_rank": 2907.5,
+    "unique_challenges": 19
+  },
+  {
+    "school": "南京航空航天大学",
+    "total_solves": 65,
+    "early_solves": 9,
+    "average_rank": 892.7692307692307,
+    "median_rank": 849,
+    "unique_challenges": 22
+  },
+  {
+    "school": "长沙理工大学",
+    "total_solves": 65,
+    "early_solves": 11,
+    "average_rank": 882.9384615384615,
+    "median_rank": 734,
+    "unique_challenges": 22
+  },
+  {
+    "school": "中国海洋大学",
+    "total_solves": 64,
+    "early_solves": 24,
+    "average_rank": 955.5625,
+    "median_rank": 324.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "河南工程学院",
+    "total_solves": 64,
+    "early_solves": 1,
+    "average_rank": 1403.875,
+    "median_rank": 931.5,
+    "unique_challenges": 16
+  },
+  {
+    "school": "仰恩大学",
+    "total_solves": 64,
+    "early_solves": 0,
+    "average_rank": 2603.734375,
+    "median_rank": 2751.0,
+    "unique_challenges": 20
+  },
+  {
+    "school": "泉州师范学院",
+    "total_solves": 64,
+    "early_solves": 0,
+    "average_rank": 2207.9375,
+    "median_rank": 2368.0,
+    "unique_challenges": 16
+  },
+  {
+    "school": "信阳学院",
+    "total_solves": 63,
+    "early_solves": 1,
+    "average_rank": 1669.920634920635,
+    "median_rank": 1494,
+    "unique_challenges": 21
+  },
+  {
+    "school": "山东电力高等专科学校",
+    "total_solves": 63,
+    "early_solves": 0,
+    "average_rank": 1697.7460317460318,
+    "median_rank": 1617,
+    "unique_challenges": 21
+  },
+  {
+    "school": "江西农业大学",
+    "total_solves": 63,
+    "early_solves": 0,
+    "average_rank": 2257.5079365079364,
+    "median_rank": 2475,
+    "unique_challenges": 21
+  },
+  {
+    "school": "河南财政金融学院",
+    "total_solves": 62,
+    "early_solves": 0,
+    "average_rank": 2467.048387096774,
+    "median_rank": 2660.0,
+    "unique_challenges": 13
+  },
+  {
+    "school": "江西师范大学科学技术学院",
+    "total_solves": 61,
+    "early_solves": 8,
+    "average_rank": 1092.639344262295,
+    "median_rank": 851,
+    "unique_challenges": 22
+  },
+  {
+    "school": "辽宁科技大学",
+    "total_solves": 61,
+    "early_solves": 0,
+    "average_rank": 2099.8524590163934,
+    "median_rank": 2308,
+    "unique_challenges": 21
+  },
+  {
+    "school": "广州大学",
+    "total_solves": 61,
+    "early_solves": 1,
+    "average_rank": 1705.9344262295083,
+    "median_rank": 1677,
+    "unique_challenges": 21
+  },
+  {
+    "school": "华南师范大学",
+    "total_solves": 60,
+    "early_solves": 11,
+    "average_rank": 1235.3166666666666,
+    "median_rank": 1032.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "甘肃政法大学",
+    "total_solves": 60,
+    "early_solves": 1,
+    "average_rank": 2156.9333333333334,
+    "median_rank": 2476.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "北方工业大学",
+    "total_solves": 60,
+    "early_solves": 2,
+    "average_rank": 1470.0166666666667,
+    "median_rank": 1383.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "五邑大学",
+    "total_solves": 59,
+    "early_solves": 0,
+    "average_rank": 2540.0508474576272,
+    "median_rank": 2679,
+    "unique_challenges": 21
+  },
+  {
+    "school": "濮阳职业技术学院",
+    "total_solves": 58,
+    "early_solves": 0,
+    "average_rank": 3167.0689655172414,
+    "median_rank": 3259.0,
+    "unique_challenges": 11
+  },
+  {
+    "school": "潍坊学院",
+    "total_solves": 57,
+    "early_solves": 1,
+    "average_rank": 1708.9122807017543,
+    "median_rank": 1431,
+    "unique_challenges": 21
+  },
+  {
+    "school": "东南大学成贤学院",
+    "total_solves": 57,
+    "early_solves": 0,
+    "average_rank": 2733.6315789473683,
+    "median_rank": 2804,
+    "unique_challenges": 17
+  },
+  {
+    "school": "浙江工商大学",
+    "total_solves": 55,
+    "early_solves": 0,
+    "average_rank": 2252.5272727272727,
+    "median_rank": 2502,
+    "unique_challenges": 22
+  },
+  {
+    "school": "郑州科技学院",
+    "total_solves": 55,
+    "early_solves": 0,
+    "average_rank": 2721.490909090909,
+    "median_rank": 2895,
+    "unique_challenges": 21
+  },
+  {
+    "school": "成都理工大学工程技术学院",
+    "total_solves": 55,
+    "early_solves": 0,
+    "average_rank": 3099.9636363636364,
+    "median_rank": 3083,
+    "unique_challenges": 17
+  },
+  {
+    "school": "平顶山工业职业技术学院",
+    "total_solves": 55,
+    "early_solves": 0,
+    "average_rank": 2485.4,
+    "median_rank": 2574,
+    "unique_challenges": 11
+  },
+  {
+    "school": "厦门大学嘉庚学院",
+    "total_solves": 53,
+    "early_solves": 1,
+    "average_rank": 1652.4150943396226,
+    "median_rank": 1651,
+    "unique_challenges": 21
+  },
+  {
+    "school": "南昌大学共青学院",
+    "total_solves": 53,
+    "early_solves": 0,
+    "average_rank": 2025.5283018867924,
+    "median_rank": 2295,
+    "unique_challenges": 19
+  },
+  {
+    "school": "石家庄铁道大学",
+    "total_solves": 53,
+    "early_solves": 4,
+    "average_rank": 1039.9245283018868,
+    "median_rank": 863,
+    "unique_challenges": 21
+  },
+  {
+    "school": "广东科技学院",
+    "total_solves": 53,
+    "early_solves": 0,
+    "average_rank": 2948.4150943396226,
+    "median_rank": 3030,
+    "unique_challenges": 16
+  },
+  {
+    "school": "东北电力大学",
+    "total_solves": 52,
+    "early_solves": 0,
+    "average_rank": 2655.980769230769,
+    "median_rank": 2691.0,
+    "unique_challenges": 18
+  },
+  {
+    "school": "武汉理工大学",
+    "total_solves": 51,
+    "early_solves": 7,
+    "average_rank": 1246.1764705882354,
+    "median_rank": 1110,
+    "unique_challenges": 22
+  },
+  {
+    "school": "华北理工大学",
+    "total_solves": 51,
+    "early_solves": 0,
+    "average_rank": 1842.9019607843138,
+    "median_rank": 2084,
+    "unique_challenges": 22
+  },
+  {
+    "school": "江苏科技大学",
+    "total_solves": 51,
+    "early_solves": 1,
+    "average_rank": 1825.9803921568628,
+    "median_rank": 1856,
+    "unique_challenges": 22
+  },
+  {
+    "school": "新乡工程学院",
+    "total_solves": 50,
+    "early_solves": 20,
+    "average_rank": 1248.52,
+    "median_rank": 1219.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "中国地质大学（武汉）",
+    "total_solves": 49,
+    "early_solves": 3,
+    "average_rank": 1989.0,
+    "median_rank": 1959,
+    "unique_challenges": 22
+  },
+  {
+    "school": "新疆师范大学",
+    "total_solves": 49,
+    "early_solves": 0,
+    "average_rank": 3075.3469387755104,
+    "median_rank": 3044,
+    "unique_challenges": 15
+  },
+  {
+    "school": "湖州师范大学",
+    "total_solves": 48,
+    "early_solves": 0,
+    "average_rank": 2752.4583333333335,
+    "median_rank": 3035.5,
+    "unique_challenges": 19
+  },
+  {
+    "school": "大连工业大学艺术与信息工程学院",
+    "total_solves": 46,
+    "early_solves": 10,
+    "average_rank": 1345.5,
+    "median_rank": 716.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "新疆科技学院",
+    "total_solves": 46,
+    "early_solves": 0,
+    "average_rank": 2147.5434782608695,
+    "median_rank": 2368.5,
+    "unique_challenges": 17
+  },
+  {
+    "school": "武汉科技大学",
+    "total_solves": 46,
+    "early_solves": 0,
+    "average_rank": 2349.695652173913,
+    "median_rank": 2654.0,
+    "unique_challenges": 14
+  },
+  {
+    "school": "江南大学",
+    "total_solves": 45,
+    "early_solves": 5,
+    "average_rank": 1802.6888888888889,
+    "median_rank": 2234,
+    "unique_challenges": 22
+  },
+  {
+    "school": "湖北工业大学",
+    "total_solves": 44,
+    "early_solves": 5,
+    "average_rank": 668.5227272727273,
+    "median_rank": 612.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "南京工业大学",
+    "total_solves": 44,
+    "early_solves": 0,
+    "average_rank": 1720.9545454545455,
+    "median_rank": 1607.0,
+    "unique_challenges": 21
+  },
+  {
+    "school": "武夷学院",
+    "total_solves": 44,
+    "early_solves": 0,
+    "average_rank": 2439.7045454545455,
+    "median_rank": 2509.5,
+    "unique_challenges": 17
+  },
+  {
+    "school": "大连理工大学城市学院",
+    "total_solves": 44,
+    "early_solves": 0,
+    "average_rank": 2808.9545454545455,
+    "median_rank": 2900.5,
+    "unique_challenges": 19
+  },
+  {
+    "school": "河南林业职业学院",
+    "total_solves": 44,
+    "early_solves": 0,
+    "average_rank": 3047.068181818182,
+    "median_rank": 3143.0,
+    "unique_challenges": 14
+  },
+  {
+    "school": "泰州学院",
+    "total_solves": 43,
+    "early_solves": 4,
+    "average_rank": 749.7209302325581,
+    "median_rank": 665,
+    "unique_challenges": 22
+  },
+  {
+    "school": "福州外语外贸学院",
+    "total_solves": 43,
+    "early_solves": 0,
+    "average_rank": 1454.1860465116279,
+    "median_rank": 1305,
+    "unique_challenges": 22
+  },
+  {
+    "school": "西华大学",
+    "total_solves": 43,
+    "early_solves": 1,
+    "average_rank": 1305.860465116279,
+    "median_rank": 1242,
+    "unique_challenges": 22
+  },
+  {
+    "school": "浙江育英职业技术学院",
+    "total_solves": 43,
+    "early_solves": 0,
+    "average_rank": 1782.4883720930231,
+    "median_rank": 1424,
+    "unique_challenges": 21
+  },
+  {
+    "school": "长春工程学院",
+    "total_solves": 43,
+    "early_solves": 0,
+    "average_rank": 2737.0,
+    "median_rank": 2846,
+    "unique_challenges": 16
+  },
+  {
+    "school": "成都大学",
+    "total_solves": 43,
+    "early_solves": 0,
+    "average_rank": 3101.720930232558,
+    "median_rank": 3209,
+    "unique_challenges": 11
+  },
+  {
+    "school": "广东警官学院",
+    "total_solves": 42,
+    "early_solves": 4,
+    "average_rank": 1112.357142857143,
+    "median_rank": 833.5,
+    "unique_challenges": 21
+  },
+  {
+    "school": "齐鲁理工学院",
+    "total_solves": 42,
+    "early_solves": 4,
+    "average_rank": 1448.2619047619048,
+    "median_rank": 1302.0,
+    "unique_challenges": 21
+  },
+  {
+    "school": "华东交通大学",
+    "total_solves": 42,
+    "early_solves": 0,
+    "average_rank": 1852.9285714285713,
+    "median_rank": 1410.0,
+    "unique_challenges": 21
+  },
+  {
+    "school": "苏州科技大学",
+    "total_solves": 42,
+    "early_solves": 1,
+    "average_rank": 1216.8809523809523,
+    "median_rank": 1076.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "西安航空职业技术学院",
+    "total_solves": 42,
+    "early_solves": 1,
+    "average_rank": 1809.1904761904761,
+    "median_rank": 2091.0,
+    "unique_challenges": 21
+  },
+  {
+    "school": "山西晋中理工学院",
+    "total_solves": 42,
+    "early_solves": 0,
+    "average_rank": 2821.9523809523807,
+    "median_rank": 3001.5,
+    "unique_challenges": 21
+  },
+  {
+    "school": "西安交通大学",
+    "total_solves": 41,
+    "early_solves": 0,
+    "average_rank": 1498.878048780488,
+    "median_rank": 1520,
+    "unique_challenges": 21
+  },
+  {
+    "school": "安徽理工大学",
+    "total_solves": 41,
+    "early_solves": 2,
+    "average_rank": 1905.5853658536585,
+    "median_rank": 1686,
+    "unique_challenges": 21
+  },
+  {
+    "school": "河海大学",
+    "total_solves": 40,
+    "early_solves": 0,
+    "average_rank": 2036.2,
+    "median_rank": 1896.5,
+    "unique_challenges": 21
+  },
+  {
+    "school": "合肥城市学院",
+    "total_solves": 40,
+    "early_solves": 0,
+    "average_rank": 1799.425,
+    "median_rank": 1894.0,
+    "unique_challenges": 20
+  },
+  {
+    "school": "南京师范大学",
+    "total_solves": 40,
+    "early_solves": 0,
+    "average_rank": 1596.625,
+    "median_rank": 1492.5,
+    "unique_challenges": 21
+  },
+  {
+    "school": "西北师范大学",
+    "total_solves": 39,
+    "early_solves": 2,
+    "average_rank": 1339.3076923076924,
+    "median_rank": 1561,
+    "unique_challenges": 22
+  },
+  {
+    "school": "杭州电子科技大学信息工程学院",
+    "total_solves": 39,
+    "early_solves": 0,
+    "average_rank": 1768.974358974359,
+    "median_rank": 1715,
+    "unique_challenges": 22
+  },
+  {
+    "school": "南京邮电大学通达学院",
+    "total_solves": 39,
+    "early_solves": 0,
+    "average_rank": 1666.4102564102564,
+    "median_rank": 1787,
+    "unique_challenges": 20
+  },
+  {
+    "school": "西南科技大学",
+    "total_solves": 39,
+    "early_solves": 3,
+    "average_rank": 2032.2820512820513,
+    "median_rank": 2069,
+    "unique_challenges": 22
+  },
+  {
+    "school": "平顶山职业技术学院",
+    "total_solves": 39,
+    "early_solves": 0,
+    "average_rank": 1878.820512820513,
+    "median_rank": 1899,
+    "unique_challenges": 20
+  },
+  {
+    "school": "武汉工商学院",
+    "total_solves": 39,
+    "early_solves": 1,
+    "average_rank": 2368.076923076923,
+    "median_rank": 2520,
+    "unique_challenges": 20
+  },
+  {
+    "school": "天津财经大学",
+    "total_solves": 39,
+    "early_solves": 0,
+    "average_rank": 2419.25641025641,
+    "median_rank": 2772,
+    "unique_challenges": 22
+  },
+  {
+    "school": "赣东学院",
+    "total_solves": 38,
+    "early_solves": 2,
+    "average_rank": 1455.578947368421,
+    "median_rank": 1462.0,
+    "unique_challenges": 21
+  },
+  {
+    "school": "天津仁爱学院",
+    "total_solves": 38,
+    "early_solves": 0,
+    "average_rank": 3034.842105263158,
+    "median_rank": 3154.0,
+    "unique_challenges": 11
+  },
+  {
+    "school": "郑州铁路职业技术学院",
+    "total_solves": 37,
+    "early_solves": 0,
+    "average_rank": 1576.6486486486488,
+    "median_rank": 1625,
+    "unique_challenges": 21
+  },
+  {
+    "school": "淮阴工学院",
+    "total_solves": 37,
+    "early_solves": 0,
+    "average_rank": 2469.7567567567567,
+    "median_rank": 2629,
+    "unique_challenges": 20
+  },
+  {
+    "school": "枣庄学院",
+    "total_solves": 35,
+    "early_solves": 0,
+    "average_rank": 2460.8,
+    "median_rank": 2797,
+    "unique_challenges": 21
+  },
+  {
+    "school": "浙江水利水电学院",
+    "total_solves": 35,
+    "early_solves": 0,
+    "average_rank": 2609.657142857143,
+    "median_rank": 2810,
+    "unique_challenges": 10
+  },
+  {
+    "school": "辽宁石油化工大学",
+    "total_solves": 35,
+    "early_solves": 0,
+    "average_rank": 3086.1714285714284,
+    "median_rank": 3371,
+    "unique_challenges": 12
+  },
+  {
+    "school": "江西科技师范大学",
+    "total_solves": 34,
+    "early_solves": 1,
+    "average_rank": 2267.1470588235293,
+    "median_rank": 2198.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "重庆人文科技学院",
+    "total_solves": 34,
+    "early_solves": 0,
+    "average_rank": 1918.6764705882354,
+    "median_rank": 2038.5,
+    "unique_challenges": 17
+  },
+  {
+    "school": "西南大学",
+    "total_solves": 34,
+    "early_solves": 0,
+    "average_rank": 2579.4411764705883,
+    "median_rank": 2841.5,
+    "unique_challenges": 18
+  },
+  {
+    "school": "丽水学院",
+    "total_solves": 34,
+    "early_solves": 0,
+    "average_rank": 2779.323529411765,
+    "median_rank": 2677.0,
+    "unique_challenges": 18
+  },
+  {
+    "school": "浙大城市学院",
+    "total_solves": 34,
+    "early_solves": 0,
+    "average_rank": 2859.5588235294117,
+    "median_rank": 2905.0,
+    "unique_challenges": 16
+  },
+  {
+    "school": "郑州工业应用技术学院",
+    "total_solves": 34,
+    "early_solves": 0,
+    "average_rank": 2313.4411764705883,
+    "median_rank": 2692.0,
+    "unique_challenges": 15
+  },
+  {
+    "school": "河南轻工职业学院",
+    "total_solves": 33,
+    "early_solves": 0,
+    "average_rank": 1875.0,
+    "median_rank": 1971,
+    "unique_challenges": 17
+  },
+  {
+    "school": "西安汽车职业大学",
+    "total_solves": 33,
+    "early_solves": 0,
+    "average_rank": 2352.787878787879,
+    "median_rank": 2291,
+    "unique_challenges": 17
+  },
+  {
+    "school": "郑州智能科技职业学院",
+    "total_solves": 32,
+    "early_solves": 0,
+    "average_rank": 2045.78125,
+    "median_rank": 2322.5,
+    "unique_challenges": 20
+  },
+  {
+    "school": "河南城建学院",
+    "total_solves": 32,
+    "early_solves": 0,
+    "average_rank": 3071.0,
+    "median_rank": 3171.0,
+    "unique_challenges": 17
+  },
+  {
+    "school": "电子科技大学",
+    "total_solves": 31,
+    "early_solves": 14,
+    "average_rank": 716.4516129032259,
+    "median_rank": 273,
+    "unique_challenges": 22
+  },
+  {
+    "school": "河北大学",
+    "total_solves": 31,
+    "early_solves": 0,
+    "average_rank": 2181.935483870968,
+    "median_rank": 1743,
+    "unique_challenges": 19
+  },
+  {
+    "school": "广东外语外贸大学",
+    "total_solves": 30,
+    "early_solves": 0,
+    "average_rank": 2878.1666666666665,
+    "median_rank": 3057.5,
+    "unique_challenges": 17
+  },
+  {
+    "school": "河南质量工程职业学院",
+    "total_solves": 30,
+    "early_solves": 0,
+    "average_rank": 3111.2,
+    "median_rank": 3135.0,
+    "unique_challenges": 11
+  },
+  {
+    "school": "湖南工学院",
+    "total_solves": 29,
+    "early_solves": 0,
+    "average_rank": 1818.3103448275863,
+    "median_rank": 1499,
+    "unique_challenges": 20
+  },
+  {
+    "school": "武汉华夏理工学院",
+    "total_solves": 27,
+    "early_solves": 0,
+    "average_rank": 1922.2592592592594,
+    "median_rank": 2156,
+    "unique_challenges": 16
+  },
+  {
+    "school": "南京晓庄学院",
+    "total_solves": 27,
+    "early_solves": 0,
+    "average_rank": 2228.5185185185187,
+    "median_rank": 2324,
+    "unique_challenges": 19
+  },
+  {
+    "school": "山东信息职业技术学院",
+    "total_solves": 27,
+    "early_solves": 0,
+    "average_rank": 1601.962962962963,
+    "median_rank": 1746,
+    "unique_challenges": 16
+  },
+  {
+    "school": "武汉生物工程学院",
+    "total_solves": 27,
+    "early_solves": 0,
+    "average_rank": 3242.740740740741,
+    "median_rank": 3425,
+    "unique_challenges": 10
+  },
+  {
+    "school": "华北电力大学",
+    "total_solves": 27,
+    "early_solves": 0,
+    "average_rank": 2762.962962962963,
+    "median_rank": 2914,
+    "unique_challenges": 11
+  },
+  {
+    "school": "湘南学院",
+    "total_solves": 26,
+    "early_solves": 0,
+    "average_rank": 2639.0,
+    "median_rank": 2769.0,
+    "unique_challenges": 19
+  },
+  {
+    "school": "河南牧业经济学院",
+    "total_solves": 26,
+    "early_solves": 0,
+    "average_rank": 2960.6923076923076,
+    "median_rank": 3071.0,
+    "unique_challenges": 15
+  },
+  {
+    "school": "山东大学",
+    "total_solves": 25,
+    "early_solves": 0,
+    "average_rank": 1941.72,
+    "median_rank": 1848,
+    "unique_challenges": 15
+  },
+  {
+    "school": "中国石油大学（北京）",
+    "total_solves": 24,
+    "early_solves": 2,
+    "average_rank": 923.3333333333334,
+    "median_rank": 633.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "内蒙古工业大学",
+    "total_solves": 23,
+    "early_solves": 8,
+    "average_rank": 567.5217391304348,
+    "median_rank": 238,
+    "unique_challenges": 22
+  },
+  {
+    "school": "上海电力大学",
+    "total_solves": 23,
+    "early_solves": 0,
+    "average_rank": 1346.0869565217392,
+    "median_rank": 1233,
+    "unique_challenges": 20
+  },
+  {
+    "school": "复旦大学",
+    "total_solves": 23,
+    "early_solves": 0,
+    "average_rank": 2985.782608695652,
+    "median_rank": 3290,
+    "unique_challenges": 17
+  },
+  {
+    "school": "绵阳师范学院",
+    "total_solves": 23,
+    "early_solves": 0,
+    "average_rank": 2935.304347826087,
+    "median_rank": 3050,
+    "unique_challenges": 13
+  },
+  {
+    "school": "大连理工大学",
+    "total_solves": 22,
+    "early_solves": 6,
+    "average_rank": 655.1818181818181,
+    "median_rank": 482.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "兰州交通大学",
+    "total_solves": 22,
+    "early_solves": 15,
+    "average_rank": 211.72727272727272,
+    "median_rank": 149.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "石家庄邮电职业技术学院",
+    "total_solves": 22,
+    "early_solves": 16,
+    "average_rank": 184.6818181818182,
+    "median_rank": 141.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "集美大学诚毅学院",
+    "total_solves": 22,
+    "early_solves": 11,
+    "average_rank": 461.72727272727275,
+    "median_rank": 198.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "黑龙江中医药大学",
+    "total_solves": 22,
+    "early_solves": 4,
+    "average_rank": 790.5454545454545,
+    "median_rank": 789.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "北京航空航天大学",
+    "total_solves": 22,
+    "early_solves": 10,
+    "average_rank": 209.04545454545453,
+    "median_rank": 219.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "兰州工业学院",
+    "total_solves": 22,
+    "early_solves": 0,
+    "average_rank": 960.4545454545455,
+    "median_rank": 908.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "九江理工职业学院",
+    "total_solves": 22,
+    "early_solves": 6,
+    "average_rank": 864.2272727272727,
+    "median_rank": 536.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "长安大学",
+    "total_solves": 22,
+    "early_solves": 1,
+    "average_rank": 1056.8181818181818,
+    "median_rank": 789.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "苏州大学",
+    "total_solves": 22,
+    "early_solves": 3,
+    "average_rank": 723.4090909090909,
+    "median_rank": 558.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "内蒙古农业大学",
+    "total_solves": 22,
+    "early_solves": 3,
+    "average_rank": 788.3636363636364,
+    "median_rank": 661.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "西安石油大学",
+    "total_solves": 22,
+    "early_solves": 9,
+    "average_rank": 399.5,
+    "median_rank": 327.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "北京科技职业学院",
+    "total_solves": 22,
+    "early_solves": 0,
+    "average_rank": 893.3636363636364,
+    "median_rank": 744.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "哈尔滨信息工程学院",
+    "total_solves": 22,
+    "early_solves": 1,
+    "average_rank": 1359.8636363636363,
+    "median_rank": 1310.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "中国人民解放军陆军炮兵防空兵学院",
+    "total_solves": 22,
+    "early_solves": 3,
+    "average_rank": 874.0454545454545,
+    "median_rank": 887.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "浙江建设职业技术学院",
+    "total_solves": 22,
+    "early_solves": 1,
+    "average_rank": 669.7727272727273,
+    "median_rank": 557.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "南京理工大学",
+    "total_solves": 22,
+    "early_solves": 2,
+    "average_rank": 1045.409090909091,
+    "median_rank": 1113.5,
+    "unique_challenges": 22
+  },
+  {
+    "school": "海南科技职业大学",
+    "total_solves": 22,
+    "early_solves": 0,
+    "average_rank": 1770.8181818181818,
+    "median_rank": 1783.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "湖南铁道职业技术学院",
+    "total_solves": 22,
+    "early_solves": 1,
+    "average_rank": 1975.2272727272727,
+    "median_rank": 2276.0,
+    "unique_challenges": 22
+  },
+  {
+    "school": "辽宁省交通高等专科学校",
+    "total_solves": 22,
+    "early_solves": 0,
+    "average_rank": 3523.7272727272725,
+    "median_rank": 3523.0,
+    "unique_challenges": 11
+  },
+  {
+    "school": "石家庄铁道大学四方学院",
+    "total_solves": 21,
+    "early_solves": 14,
+    "average_rank": 230.95238095238096,
+    "median_rank": 128,
+    "unique_challenges": 21
+  },
+  {
+    "school": "中国农业大学",
+    "total_solves": 21,
+    "early_solves": 1,
+    "average_rank": 1020.5714285714286,
+    "median_rank": 907,
+    "unique_challenges": 21
+  },
+  {
+    "school": "湖南吉利汽车职业技术学院",
+    "total_solves": 21,
+    "early_solves": 1,
+    "average_rank": 1367.7142857142858,
+    "median_rank": 1325,
+    "unique_challenges": 21
+  },
+  {
+    "school": "四川托普信息技术职业学院",
+    "total_solves": 21,
+    "early_solves": 3,
+    "average_rank": 1711.0,
+    "median_rank": 1764,
+    "unique_challenges": 21
+  },
+  {
+    "school": "中国科学技术大学",
+    "total_solves": 21,
+    "early_solves": 2,
+    "average_rank": 1836.8095238095239,
+    "median_rank": 2002,
+    "unique_challenges": 21
+  },
+  {
+    "school": "河北工程大学",
+    "total_solves": 21,
+    "early_solves": 1,
+    "average_rank": 1592.6190476190477,
+    "median_rank": 1539,
+    "unique_challenges": 21
+  },
+  {
+    "school": "汉口学院",
+    "total_solves": 21,
+    "early_solves": 0,
+    "average_rank": 1355.2857142857142,
+    "median_rank": 1316,
+    "unique_challenges": 21
+  },
+  {
+    "school": "中南林业科技大学",
+    "total_solves": 21,
+    "early_solves": 1,
+    "average_rank": 1979.7619047619048,
+    "median_rank": 2045,
+    "unique_challenges": 21
+  },
+  {
+    "school": "济南大学",
+    "total_solves": 21,
+    "early_solves": 1,
+    "average_rank": 1980.047619047619,
+    "median_rank": 1952,
+    "unique_challenges": 21
+  },
+  {
+    "school": "上海应用技术大学",
+    "total_solves": 21,
+    "early_solves": 1,
+    "average_rank": 1535.8095238095239,
+    "median_rank": 1639,
+    "unique_challenges": 21
+  },
+  {
+    "school": "南通理工学院",
+    "total_solves": 21,
+    "early_solves": 0,
+    "average_rank": 2359.0,
+    "median_rank": 2465,
+    "unique_challenges": 21
+  },
+  {
+    "school": "新疆政法学院",
+    "total_solves": 21,
+    "early_solves": 0,
+    "average_rank": 2769.1428571428573,
+    "median_rank": 2656,
+    "unique_challenges": 15
+  },
+  {
+    "school": "山西大学",
+    "total_solves": 20,
+    "early_solves": 2,
+    "average_rank": 969.05,
+    "median_rank": 595.0,
+    "unique_challenges": 20
+  },
+  {
+    "school": "西安明德理工学院",
+    "total_solves": 20,
+    "early_solves": 4,
+    "average_rank": 801.35,
+    "median_rank": 666.0,
+    "unique_challenges": 20
+  },
+  {
+    "school": "重庆对外经贸学院",
+    "total_solves": 20,
+    "early_solves": 1,
+    "average_rank": 1170.05,
+    "median_rank": 1183.0,
+    "unique_challenges": 20
+  },
+  {
+    "school": "广东白云学院",
+    "total_solves": 20,
+    "early_solves": 6,
+    "average_rank": 599.7,
+    "median_rank": 470.5,
+    "unique_challenges": 20
+  },
+  {
+    "school": "新疆财经大学",
+    "total_solves": 20,
+    "early_solves": 1,
+    "average_rank": 1602.35,
+    "median_rank": 1633.0,
+    "unique_challenges": 20
+  },
+  {
+    "school": "湖北民族大学",
+    "total_solves": 20,
+    "early_solves": 0,
+    "average_rank": 1980.0,
+    "median_rank": 1867.5,
+    "unique_challenges": 20
+  },
+  {
+    "school": "江汉大学",
+    "total_solves": 20,
+    "early_solves": 4,
+    "average_rank": 1201.8,
+    "median_rank": 1404.0,
+    "unique_challenges": 20
+  },
+  {
+    "school": "泰山科技学院",
+    "total_solves": 20,
+    "early_solves": 0,
+    "average_rank": 2238.5,
+    "median_rank": 2202.5,
+    "unique_challenges": 20
+  },
+  {
+    "school": "青岛农业大学",
+    "total_solves": 20,
+    "early_solves": 1,
+    "average_rank": 1755.1,
+    "median_rank": 1959.0,
+    "unique_challenges": 20
+  },
+  {
+    "school": "阜阳师范大学",
+    "total_solves": 20,
+    "early_solves": 0,
+    "average_rank": 2335.95,
+    "median_rank": 2592.0,
+    "unique_challenges": 20
+  },
+  {
+    "school": "南京师范大学泰州学院",
+    "total_solves": 20,
+    "early_solves": 0,
+    "average_rank": 2852.45,
+    "median_rank": 2994.5,
+    "unique_challenges": 20
+  },
+  {
+    "school": "郑州航空工业管理学院",
+    "total_solves": 20,
+    "early_solves": 0,
+    "average_rank": 3557.3,
+    "median_rank": 3599.0,
+    "unique_challenges": 6
+  },
+  {
+    "school": "大连工业大学",
+    "total_solves": 19,
+    "early_solves": 0,
+    "average_rank": 1663.4736842105262,
+    "median_rank": 1755,
+    "unique_challenges": 19
+  },
+  {
+    "school": "邵阳学院",
+    "total_solves": 19,
+    "early_solves": 0,
+    "average_rank": 1473.6315789473683,
+    "median_rank": 1627,
+    "unique_challenges": 19
+  },
+  {
+    "school": "沈阳化工大学",
+    "total_solves": 19,
+    "early_solves": 4,
+    "average_rank": 1108.1052631578948,
+    "median_rank": 1113,
+    "unique_challenges": 19
+  },
+  {
+    "school": "南昌大学科学技术学院",
+    "total_solves": 19,
+    "early_solves": 0,
+    "average_rank": 2427.5263157894738,
+    "median_rank": 2482,
+    "unique_challenges": 19
+  },
+  {
+    "school": "西安科技大学",
+    "total_solves": 19,
+    "early_solves": 0,
+    "average_rank": 2499.842105263158,
+    "median_rank": 2543,
+    "unique_challenges": 19
+  },
+  {
+    "school": "宁夏大学新华学院",
+    "total_solves": 19,
+    "early_solves": 0,
+    "average_rank": 2379.2105263157896,
+    "median_rank": 2376,
+    "unique_challenges": 19
+  },
+  {
+    "school": "南昌航空大学",
+    "total_solves": 19,
+    "early_solves": 0,
+    "average_rank": 1811.4736842105262,
+    "median_rank": 1669,
+    "unique_challenges": 19
+  },
+  {
+    "school": "广东第二师范学院",
+    "total_solves": 19,
+    "early_solves": 0,
+    "average_rank": 2539.5789473684213,
+    "median_rank": 2509,
+    "unique_challenges": 19
+  },
+  {
+    "school": "湖北理工学院",
+    "total_solves": 19,
+    "early_solves": 0,
+    "average_rank": 2250.2105263157896,
+    "median_rank": 2389,
+    "unique_challenges": 19
+  },
+  {
+    "school": "长春师范大学",
+    "total_solves": 18,
+    "early_solves": 2,
+    "average_rank": 773.0,
+    "median_rank": 368.0,
+    "unique_challenges": 18
+  },
+  {
+    "school": "陕西科技大学",
+    "total_solves": 18,
+    "early_solves": 3,
+    "average_rank": 1007.1111111111111,
+    "median_rank": 1289.5,
+    "unique_challenges": 18
+  },
+  {
+    "school": "天津电子信息职业技术学院",
+    "total_solves": 18,
+    "early_solves": 0,
+    "average_rank": 1700.611111111111,
+    "median_rank": 1591.5,
+    "unique_challenges": 18
+  },
+  {
+    "school": "山东商务职业学院",
+    "total_solves": 18,
+    "early_solves": 1,
+    "average_rank": 1517.7222222222222,
+    "median_rank": 1572.5,
+    "unique_challenges": 18
+  },
+  {
+    "school": "湖南信息职业技术学院",
+    "total_solves": 17,
+    "early_solves": 0,
+    "average_rank": 1335.6470588235295,
+    "median_rank": 1084,
+    "unique_challenges": 17
+  },
+  {
+    "school": "四川大学锦江学院",
+    "total_solves": 17,
+    "early_solves": 7,
+    "average_rank": 927.2941176470588,
+    "median_rank": 530,
+    "unique_challenges": 17
+  },
+  {
+    "school": "山东协和学院",
+    "total_solves": 17,
+    "early_solves": 0,
+    "average_rank": 2231.235294117647,
+    "median_rank": 2262,
+    "unique_challenges": 17
+  },
+  {
+    "school": "广西科技师范学院",
+    "total_solves": 17,
+    "early_solves": 3,
+    "average_rank": 1403.6470588235295,
+    "median_rank": 1983,
+    "unique_challenges": 17
+  },
+  {
+    "school": "青岛理工大学",
+    "total_solves": 17,
+    "early_solves": 0,
+    "average_rank": 2672.3529411764707,
+    "median_rank": 2935,
+    "unique_challenges": 17
+  },
+  {
+    "school": "福建水利电力职业技术学院",
+    "total_solves": 17,
+    "early_solves": 0,
+    "average_rank": 2998.529411764706,
+    "median_rank": 2975,
+    "unique_challenges": 17
+  },
+  {
+    "school": "厦门大学",
+    "total_solves": 17,
+    "early_solves": 0,
+    "average_rank": 3284.529411764706,
+    "median_rank": 3347,
+    "unique_challenges": 17
+  },
+  {
+    "school": "湖北警官学院",
+    "total_solves": 17,
+    "early_solves": 0,
+    "average_rank": 1439.1176470588234,
+    "median_rank": 1327,
+    "unique_challenges": 9
+  },
+  {
+    "school": "重庆工商大学",
+    "total_solves": 16,
+    "early_solves": 0,
+    "average_rank": 1736.0,
+    "median_rank": 1957.5,
+    "unique_challenges": 16
+  },
+  {
+    "school": "中南林业科技大学涉外学院",
+    "total_solves": 16,
+    "early_solves": 0,
+    "average_rank": 1763.0625,
+    "median_rank": 1971.5,
+    "unique_challenges": 16
+  },
+  {
+    "school": "厦门南洋职业学院",
+    "total_solves": 16,
+    "early_solves": 0,
+    "average_rank": 2996.4375,
+    "median_rank": 2792.0,
+    "unique_challenges": 16
+  },
+  {
+    "school": "滁州学院",
+    "total_solves": 16,
+    "early_solves": 0,
+    "average_rank": 2963.125,
+    "median_rank": 3018.0,
+    "unique_challenges": 16
+  },
+  {
+    "school": "河南工学院",
+    "total_solves": 15,
+    "early_solves": 0,
+    "average_rank": 1418.8666666666666,
+    "median_rank": 1179,
+    "unique_challenges": 15
+  },
+  {
+    "school": "广西英华国际职业学院",
+    "total_solves": 14,
+    "early_solves": 3,
+    "average_rank": 752.2857142857143,
+    "median_rank": 338.0,
+    "unique_challenges": 14
+  },
+  {
+    "school": "汝州职业技术学院",
+    "total_solves": 14,
+    "early_solves": 0,
+    "average_rank": 2811.6428571428573,
+    "median_rank": 2923.0,
+    "unique_challenges": 14
+  },
+  {
+    "school": "沈阳师范大学",
+    "total_solves": 14,
+    "early_solves": 0,
+    "average_rank": 2362.4285714285716,
+    "median_rank": 2359.0,
+    "unique_challenges": 13
+  },
+  {
+    "school": "湖南第一师范学院",
+    "total_solves": 14,
+    "early_solves": 0,
+    "average_rank": 2884.8571428571427,
+    "median_rank": 2977.0,
+    "unique_challenges": 14
+  },
+  {
+    "school": "重庆工程职业技术学院",
+    "total_solves": 13,
+    "early_solves": 0,
+    "average_rank": 2361.153846153846,
+    "median_rank": 2937,
+    "unique_challenges": 13
+  },
+  {
+    "school": "江西枫林涉外经贸职业学院",
+    "total_solves": 13,
+    "early_solves": 0,
+    "average_rank": 3478.0,
+    "median_rank": 3497,
+    "unique_challenges": 13
+  },
+  {
+    "school": "宿州学院",
+    "total_solves": 13,
+    "early_solves": 0,
+    "average_rank": 3101.4615384615386,
+    "median_rank": 3458,
+    "unique_challenges": 12
+  },
+  {
+    "school": "江苏警官学院",
+    "total_solves": 12,
+    "early_solves": 0,
+    "average_rank": 2449.6666666666665,
+    "median_rank": 2466.5,
+    "unique_challenges": 12
+  },
+  {
+    "school": "德州科技职业学院",
+    "total_solves": 12,
+    "early_solves": 0,
+    "average_rank": 2622.5833333333335,
+    "median_rank": 2561.5,
+    "unique_challenges": 12
+  },
+  {
+    "school": "首都师范大学",
+    "total_solves": 12,
+    "early_solves": 0,
+    "average_rank": 1242.6666666666667,
+    "median_rank": 1327.5,
+    "unique_challenges": 12
+  },
+  {
+    "school": "深圳大学",
+    "total_solves": 12,
+    "early_solves": 0,
+    "average_rank": 2657.5833333333335,
+    "median_rank": 2556.0,
+    "unique_challenges": 12
+  },
+  {
+    "school": "昆明理工大学",
+    "total_solves": 12,
+    "early_solves": 2,
+    "average_rank": 1234.75,
+    "median_rank": 1561.5,
+    "unique_challenges": 12
+  },
+  {
+    "school": "国际关系学院",
+    "total_solves": 11,
+    "early_solves": 0,
+    "average_rank": 2947.818181818182,
+    "median_rank": 3144,
+    "unique_challenges": 11
+  },
+  {
+    "school": "黄河交通学院",
+    "total_solves": 11,
+    "early_solves": 0,
+    "average_rank": 1186.6363636363637,
+    "median_rank": 696,
+    "unique_challenges": 11
+  },
+  {
+    "school": "沈阳工业大学",
+    "total_solves": 11,
+    "early_solves": 0,
+    "average_rank": 1256.1818181818182,
+    "median_rank": 1292,
+    "unique_challenges": 11
+  },
+  {
+    "school": "上海师范大学天华学院",
+    "total_solves": 11,
+    "early_solves": 0,
+    "average_rank": 3354.2727272727275,
+    "median_rank": 3359,
+    "unique_challenges": 11
+  },
+  {
+    "school": "兰州文理学院",
+    "total_solves": 11,
+    "early_solves": 0,
+    "average_rank": 3238.3636363636365,
+    "median_rank": 3151,
+    "unique_challenges": 7
+  },
+  {
+    "school": "重庆工商职业学院",
+    "total_solves": 10,
+    "early_solves": 0,
+    "average_rank": 2620.4,
+    "median_rank": 3082.5,
+    "unique_challenges": 7
+  },
+  {
+    "school": "安阳学院",
+    "total_solves": 10,
+    "early_solves": 0,
+    "average_rank": 2334.6,
+    "median_rank": 2599.5,
+    "unique_challenges": 10
+  },
+  {
+    "school": "南华大学",
+    "total_solves": 10,
+    "early_solves": 0,
+    "average_rank": 3258.7,
+    "median_rank": 3124.5,
+    "unique_challenges": 8
+  },
+  {
+    "school": "云南城市建设职业学院",
+    "total_solves": 10,
+    "early_solves": 4,
+    "average_rank": 876.0,
+    "median_rank": 305.5,
+    "unique_challenges": 10
+  },
+  {
+    "school": "山西师范大学",
+    "total_solves": 10,
+    "early_solves": 0,
+    "average_rank": 2576.4,
+    "median_rank": 2938.0,
+    "unique_challenges": 6
+  },
+  {
+    "school": "安徽科技学院",
+    "total_solves": 9,
+    "early_solves": 0,
+    "average_rank": 2716.3333333333335,
+    "median_rank": 2906,
+    "unique_challenges": 9
+  },
+  {
+    "school": "青海大学",
+    "total_solves": 9,
+    "early_solves": 0,
+    "average_rank": 2747.8888888888887,
+    "median_rank": 2666,
+    "unique_challenges": 9
+  },
+  {
+    "school": "湖南涉外经济学院",
+    "total_solves": 9,
+    "early_solves": 0,
+    "average_rank": 3107.1111111111113,
+    "median_rank": 3083,
+    "unique_challenges": 9
+  },
+  {
+    "school": "桂林理工大学",
+    "total_solves": 8,
+    "early_solves": 0,
+    "average_rank": 2760.25,
+    "median_rank": 2746.0,
+    "unique_challenges": 8
+  },
+  {
+    "school": "莆田学院",
+    "total_solves": 8,
+    "early_solves": 0,
+    "average_rank": 3422.5,
+    "median_rank": 3460.5,
+    "unique_challenges": 4
+  },
+  {
+    "school": "贵州警察学院",
+    "total_solves": 7,
+    "early_solves": 0,
+    "average_rank": 3258.0,
+    "median_rank": 3257,
+    "unique_challenges": 7
+  },
+  {
+    "school": "中国矿业大学（北京）",
+    "total_solves": 7,
+    "early_solves": 0,
+    "average_rank": 2688.8571428571427,
+    "median_rank": 2772,
+    "unique_challenges": 7
+  },
+  {
+    "school": "重庆理工大学",
+    "total_solves": 6,
+    "early_solves": 0,
+    "average_rank": 3633.1666666666665,
+    "median_rank": 3620.5,
+    "unique_challenges": 4
+  },
+  {
+    "school": "浙江万里学院",
+    "total_solves": 5,
+    "early_solves": 0,
+    "average_rank": 3361.4,
+    "median_rank": 3301,
+    "unique_challenges": 5
+  },
+  {
+    "school": "太原师范学院",
+    "total_solves": 5,
+    "early_solves": 0,
+    "average_rank": 3214.4,
+    "median_rank": 3392,
+    "unique_challenges": 5
+  },
+  {
+    "school": "南开大学",
+    "total_solves": 4,
+    "early_solves": 0,
+    "average_rank": 3753.25,
+    "median_rank": 3708.5,
+    "unique_challenges": 4
+  },
+  {
+    "school": "中国矿业大学",
+    "total_solves": 4,
+    "early_solves": 0,
+    "average_rank": 3090.5,
+    "median_rank": 3094.5,
+    "unique_challenges": 4
+  },
+  {
+    "school": "深圳职业技术大学",
+    "total_solves": 3,
+    "early_solves": 0,
+    "average_rank": 3623.3333333333335,
+    "median_rank": 3615,
+    "unique_challenges": 3
+  },
+  {
+    "school": "昆明冶金高等专科学校",
+    "total_solves": 2,
+    "early_solves": 0,
+    "average_rank": 1638.5,
+    "median_rank": 1638.5,
+    "unique_challenges": 2
+  },
+  {
+    "school": "黄河科技学院",
+    "total_solves": 2,
+    "early_solves": 0,
+    "average_rank": 3694.0,
+    "median_rank": 3694.0,
+    "unique_challenges": 2
+  },
+  {
+    "school": "合肥师范学院",
+    "total_solves": 1,
+    "early_solves": 0,
+    "average_rank": 3408.0,
+    "median_rank": 3408,
+    "unique_challenges": 1
+  }
+]

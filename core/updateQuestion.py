@@ -48,12 +48,13 @@ def updateQuestionsolve(type, valueName):
             if ret.status_code == 200:
                 ret = ret.json()
                 valueName[category][id]["solves"] = ret["teams"]
-                if type == "are":
-                    for i in valueName[category][id]["solves"]:
-                        if i["name"] == valueName[category][id]["author"]:
-                            valueName[category][id]["solves"].remove(i)
-                            print(category, id, "成功排除擂台赛中出题人自动解题造成的误差")
-                            break
+                print(category, id, "不排除擂台赛中出题人自动解题造成的误差", sep="\t")
+                # if type == "are":
+                #     for i in valueName[category][id]["solves"]:
+                #         if i["name"] == valueName[category][id]["author"]:
+                #             valueName[category][id]["solves"].remove(i)
+                #             print(category, id, "成功排除擂台赛中出题人自动解题造成的误差")
+                #             break
                 # print(category, id, valueName[category][id]["solves"], sep="\t")
 
 
@@ -62,8 +63,9 @@ def updateQuestion():
     arenaList = {}
 
     # 检查登录情况
-    assert ss.post(f"{host}/login", data={"name": username, "password": password}, allow_redirects=False).status_code == 302
+    login_req =  ss.post(f"{host}/login", data={"name": username, "password": password}, allow_redirects=False).status_code == 302
 
+    print(login_req.to_bytes())
     # 练武的题目信息
     updateQuestionList("chals", challengeList)
     # 练武的题目解出情况
@@ -83,8 +85,12 @@ def updateQuestion():
     # 写入状态信息
     with open("./temp/status.json", "w", encoding="UTF-8") as f:
         res = requests.get("https://information.isclab.org.cn/get_totalcomp").json()
-        with open("./docs/data/user.json", "r", encoding="utf8") as f_:
-            user_data = json.load(f_)
+        user_data = {}
+        try:
+            with open("./temp/user.json", "r", encoding="utf8") as f_:
+                user_data = json.load(f_)
+        except FileNotFoundError:
+            user_data = {}
         f.write(
             json.dumps(
                 {

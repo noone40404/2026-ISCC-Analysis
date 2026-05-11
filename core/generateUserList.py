@@ -1,12 +1,16 @@
 import json
+from pathlib import Path
 
 def generateUserList():
+    root_dir = Path(__file__).resolve().parents[1]
+    temp_dir = root_dir / "temp"
+    temp_dir.mkdir(parents=True, exist_ok=True)
     userList = {}
 
-    with open("./temp/challenge.json", "r", encoding="utf8") as f:
+    with (temp_dir / "challenge.json").open("r", encoding="utf-8") as f:
         data_challenge = json.load(f)
 
-    with open("./temp/arena.json", "r", encoding="utf8") as f:
+    with (temp_dir / "arena.json").open("r", encoding="utf-8") as f:
         data_arena = json.load(f)
 
     # 重建可索引的所有用户
@@ -64,5 +68,5 @@ def generateUserList():
                     userList[solve_record["id"]]["score"] += data_arena[category][challenge]["score"] * 0.5
 
     # 写入用户信息
-    with open("./temp/user.json", "w", encoding="UTF-8") as f:
+    with (temp_dir / "user.json").open("w", encoding="utf-8") as f:
         f.write(json.dumps(userList, ensure_ascii=False))

@@ -3,6 +3,8 @@ from pathlib import Path
 import json
 import shutil
 import os
+import subprocess
+import sys
 import core
 
 
@@ -12,8 +14,16 @@ class ISCCError(Exception):
         self.error_code = -1
 
 
-with open("./docs/data/status.json", "r") as f:
-    data_time = str(datetime.datetime.fromtimestamp(json.load(f)["updateTime"]).strftime("%Y-%m-%d_%H-%M-%S"))
+extract_script = Path(__file__).parent / "core" / "extract_iscc2026.py"
+subprocess.run([sys.executable, str(extract_script)], check=True)
+
+status_path = Path("./docs/data/status.json")
+status_path.parent.mkdir(parents=True, exist_ok=True)
+try:
+    with status_path.open("r", encoding="utf-8") as f:
+        data_time = str(datetime.datetime.fromtimestamp(json.load(f)["updateTime"]).strftime("%Y-%m-%d_%H-%M-%S"))
+except FileNotFoundError:
+    data_time = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
 
 # 尝试获取新数据，如果失败就放弃本次爬取
@@ -32,9 +42,12 @@ Path(destination_path).mkdir(parents=True, exist_ok=True)
 source_folder = os.path.join(current_directory, "docs", "data")
 for root, directories, files in os.walk(source_folder):
     for file in files:
+        if file == "iscc2026_users.json":
+            continue
         source_file = os.path.join(root, file)
         destination_file = os.path.join(destination_path, file)
         shutil.move(source_file, destination_file)
+
 
 # 转移新数据
 destination_path = os.path.join(current_directory, "docs", "data")
@@ -44,3 +57,9 @@ for root, directories, files in os.walk(source_folder):
         source_file = os.path.join(root, file)
         destination_file = os.path.join(destination_path, file)
         shutil.move(source_file, destination_file)
+
+analyze_script = Path(__file__).parent / "core" / "analyze_iscc_submissions.py"
+subprocess.run(
+    [sys.executable, str(analyze_script), "--out-dir", "docs/analysis"],
+    check=True,
+)
