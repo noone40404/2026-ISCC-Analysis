@@ -2,6 +2,8 @@
 
 ## 运行说明
 
+将区域赛晋级名单的三个赛区pdf放入docs/pdf下，并修改extract_iscc2026.py下的PASSWORD字段
+
 ## updateQuestion.py
 
 所有题目的解出信息进行获取
@@ -29,6 +31,10 @@
 - status.json
 
     > 用于记录数据开始爬取的时间
+
+- user.json
+
+    > 用于存储名单中用户名和学校的对应关系
 
 ## 2023 年数据说明 （未分赛区进行筛选）
 
