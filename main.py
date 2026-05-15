@@ -13,9 +13,7 @@ class ISCCError(Exception):
         super().__init__(message)
         self.error_code = -1
 
-
-extract_script = Path(__file__).parent / "core" / "extract_iscc2026.py"
-subprocess.run([sys.executable, str(extract_script)], check=True)
+core.pdfExtract()
 
 status_path = Path("./docs/data/status.json")
 status_path.parent.mkdir(parents=True, exist_ok=True)
@@ -58,8 +56,5 @@ for root, directories, files in os.walk(source_folder):
         destination_file = os.path.join(destination_path, file)
         shutil.move(source_file, destination_file)
 
-analyze_script = Path(__file__).parent / "core" / "analyze_iscc_submissions.py"
-subprocess.run(
-    [sys.executable, str(analyze_script), "--out-dir", "docs/analysis"],
-    check=True,
-)
+core.dataAnalysis()
+core.computeSchoolIndex()

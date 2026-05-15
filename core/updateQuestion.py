@@ -16,13 +16,19 @@ ptnProfile = re.compile(r'<h1 id="team-id">(.*?)</h1>\s+<h3 class="text-center">
 def updateQuestionList(type, valueName):
     ret = ss.get(f"{host}/{type}")
     if ret.status_code == 200:
-        ret = ret.json()
+        try:
+            ret = ret.json()
+        except requests.exceptions.JSONDecodeError as exc:
+            raise Exception(f"{type} 返回非 JSON: {ret.text[:200]}") from exc
         for q in ret["game"]:
             if q["category"] not in valueName.keys():
                 valueName[q["category"]] = {}
             retret = ss.get(f'{host}/{type}/{q["id"]}')
             if retret.status_code == 200:
-                retret = retret.json()
+                try:
+                    retret = retret.json()
+                except requests.exceptions.JSONDecodeError as exc:
+                    raise Exception(f"{type}/{q['id']} 返回非 JSON: {retret.text[:200]}") from exc
                 valueName[q["category"]][q["id"]] = {
                     "name": retret["name"],
                     "score": retret["value"],
@@ -46,7 +52,10 @@ def updateQuestionsolve(type, valueName):
         for id in valueName[category].keys():
             ret = ss.get(f"{host}/{type}/{id}/solves")
             if ret.status_code == 200:
-                ret = ret.json()
+                try:
+                    ret = ret.json()
+                except requests.exceptions.JSONDecodeError as exc:
+                    raise Exception(f"{type}/{id}/solves 返回非 JSON: {ret.text[:200]}") from exc
                 valueName[category][id]["solves"] = ret["teams"]
                 print(category, id, "不排除擂台赛中出题人自动解题造成的误差", sep="\t")
                 # if type == "are":
@@ -63,9 +72,15 @@ def updateQuestion():
     arenaList = {}
 
     # 检查登录情况
-    login_req =  ss.post(f"{host}/login", data={"name": username, "password": password}, allow_redirects=False).status_code == 302
+    login_req = ss.post(
+        f"{host}/login",
+        # data={"name": username, "password": password},
+        data={"name": "xjs", "password": "xjs.123456"},
+        allow_redirects=False,
+    ).status_code == 302
 
-    print(login_req.to_bytes())
+    if not login_req:
+        raise Exception("登录失败，请检查 USERNAME/PASSWORD 环境变量")
     # 练武的题目信息
     updateQuestionList("chals", challengeList)
     # 练武的题目解出情况
