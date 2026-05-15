@@ -8,7 +8,7 @@ PDF_DIR = Path(__file__).resolve().parents[1] / "docs" / "pdfs"
 OUTPUT_PATH = Path("docs/data/****2026_users.json")
 PASSWORD = "****2026"
 
-# Matches IDs like ISCC2026-XXXX-00144 or ISCC2026-XXXXXX-00144
+# Matches IDs like ****2026-XXXX-00144 or ****2026-XXXXXX-00144
 ID_REGEX = re.compile(r"****2026-[A-Z0-9]+-(\d{5})")
 
 
