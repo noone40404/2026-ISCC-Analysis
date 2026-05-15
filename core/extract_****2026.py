@@ -5,11 +5,11 @@ from pathlib import Path
 import pdfplumber
 
 PDF_DIR = Path(__file__).resolve().parents[1] / "docs" / "pdfs"
-OUTPUT_PATH = Path("docs/data/iscc2026_users.json")
-PASSWORD = "ISCC2026"
+OUTPUT_PATH = Path("docs/data/****2026_users.json")
+PASSWORD = "****2026"
 
 # Matches IDs like ISCC2026-XXXX-00144 or ISCC2026-XXXXXX-00144
-ID_REGEX = re.compile(r"ISCC2026-[A-Z0-9]+-(\d{5})")
+ID_REGEX = re.compile(r"****2026-[A-Z0-9]+-(\d{5})")
 
 
 def extract_rows_from_text(text):
